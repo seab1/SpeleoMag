@@ -1,0 +1,14 @@
+Wizja produktu SpeleoMag
+Dla kogo jest przeznaczony?
+Dla wszystkich członków dowolnego klubu speleologicznego lub alpinistycznego. Dla członków szeregowych ale także w szczególności dla osób funkcyjnych (magazynier, skarbnik) w tychże klubach.
+
+Jakie korzyści przynosi, za które klient zechce zapłacić?
+Oszczędność czasu magazynierów (wydawanie i odzyskiwanie sprzętu), skarbnika oraz członków klubu. Bezproblemowy przepływ informacji o aktualnym stanie magazynu i miejscu przebywania wypożyczonego sprzętu. Możliwość tworzenia statystyk i organizacji konkursów motywujących klubowiczów do aktywniejszej działalności. Zarządzanie informacją o stanie magazynu znacznie ułatwi inwentaryzację magazynu.
+
+Główne wymagania:
+Aplikacja umożliwia użytkownikowi (szeregowy członek klubu) zalogowanie się do systemu i sprawdzenie swojego statusu (zaległość składek, obecnie wypożyczenia, terminy zwrotów i opłat). Użytkownik otrzymuje również najnowsze informacje o ważnych wydarzeniach w klubie. Użytkownik ma możliwość przeglądnięcia zawartości magazynu klubowego oraz jego przeszukania jego zawartości z wykorzystaniem wyszukiwarki pełnotekstowej opartej o nazwy i opisy sprzętu. Interesujące go sprzęty może zarezerwować, jeśli będą dostępne i jeśli ma opłacone składki klubowe. Po rezerwacji użytkownik otrzymuje jej potwierdzenie na adres e-mail.
+
+Z kolei magazynier ma możliwość sprawdzenia rezerwacji z wykorzystaniem filtrów czasowych (dzisiejsze, wczorajsze, ostatni tydzień) oraz dla danego użytkownika. Magazynier ma możliwość zapoznania się z listą zarezerwowanego przez danego klubowicza sprzętu. Po zatwierdzeniu przez magazyniera wypożyczenia sprzętu, na e-mail magazyniera oraz klubowicza zostaje wysłane potwierdzenie wypożyczania z listą pobranego z magazynu sprzętu. Mimo rezerwacji, nie zawsze z magazynu zostanie pobrany cały zamówiony sprzęt.
+
+Główny scenariusz użycia produktu:
+Kolega Filip zamierza wybrać się w najbliższy weekend do Jaskini Czarnej w polskich Tatrach Zachodnich gdzie potrzebować będzie 4 liny o długościach odpowiednio 42, 10, 11, 34 metrów liny, 15 karabinków zakręcanych oraz dwa worki jaskiniowe. Do tego, chciałby pożyczyć uprząż jaskiniową, gdyż jego własna uległa zniszczeniu. Ze względu na fakt, iż spotkania klubowe odbywają się w czwartki, Filip musi poczekać z wypożyczeniem jeszcze dwa dni (jest wtorek) ale jadąc autobusem do domu loguje się do aplikacji SpeleoMag na swoim smartfonie i rezerwuje cały potrzebny sprzęt w kilka minut. W czwartek niestety spóźnia się do klubu i magazynier już jest nieobecny, ale czeka na niego przygotowany sprzęt a na poczcie e-mail odnajduje potwierdzenie dokonanej rezerwacji.
